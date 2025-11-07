@@ -26,8 +26,11 @@ The model is evaluated using unsupervised metrics — Diversity, Novelty, Covera
 ### Evaluation Metrics
 
 **Diversity** – Measures variety among recommended books.
+
 **Novelty** – Rewards less popular, unique books.
+
 **Coverage** – Determines catalog breadth.
+
 **Popularity Bias** – Checks over-recommendation of famous titles.
 
 ### Tools Used
